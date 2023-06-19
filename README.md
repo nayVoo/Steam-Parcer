@@ -1,2 +1,2 @@
 # Steam-Parcer
-Steam Parcer
+Steam Games Parcer
